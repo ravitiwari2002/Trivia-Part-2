@@ -1,10 +1,3 @@
-//
-//  TriviaUITestsLaunchTests.swift
-//  TriviaUITests
-//
-//  Created by Mari Batilando on 4/6/23.
-//
-
 import XCTest
 
 final class TriviaUITestsLaunchTests: XCTestCase {

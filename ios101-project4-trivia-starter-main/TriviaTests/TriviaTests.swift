@@ -1,10 +1,3 @@
-//
-//  TriviaTests.swift
-//  TriviaTests
-//
-//  Created by Mari Batilando on 4/6/23.
-//
-
 import XCTest
 @testable import Trivia
 

@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Trivia
-//
-//  Created by Mari Batilando on 4/6/23.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
