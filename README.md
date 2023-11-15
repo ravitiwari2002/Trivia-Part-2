@@ -1,35 +1,18 @@
-# Project 4 - *Trivia App Pt. 2*
-
-Submitted by: **Ravi Tiwari**
+*Trivia App Pt. 2*
 
 **Trivia App Pt. 2** is an app that will allow users to test their knowledge by answer questions from different areas. 
 
-Time spent: **8** hours spent in total
+## Features
 
-## Required Features
+The following functionalities are implemented:
 
-The following **required** functionality is completed:
+-  User can view and answer at least 5 trivia questions.
+-  App retrieves question data from the Open Trivia Database API.
+-  Fetch a different set of questions if the user indicates they would like to reset the game.
+-  Users can see score after submitting all questions.
+-  True or False questions only have two options.
 
-- [X] User can view and answer at least 5 trivia questions.
-- [X] App retrieves question data from the Open Trivia Database API.
-- [X] Fetch a different set of questions if the user indicates they would like to reset the game.
-- [X] Users can see score after submitting all questions.
-- [X] True or False questions only have two options.
-
-
-The following **optional** features are implemented:
-
-  
-- [ ] Allow the user to choose a specific category of questions.
-- [ ] Provide the user feedback on whether each question was correct before navigating to the next.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-[![Video](https://img.youtube.com/vi/tVx9QIzjJBU/maxresdefault.jpg)](https://youtu.be/tVx9QIzjJBU)
+https://github.com/ravitiwari2002/Trivia-Part-2/assets/81186121/d075e3f3-06eb-4e28-9310-659b72ce5cf7
 
 
 ## License
